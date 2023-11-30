@@ -134,10 +134,8 @@ ol {
   font-size: 75px;
   font-style: normal;
   font-weight: 700;
-  line-height: 70.5px;
+  line-height:  94%;
   text-transform: uppercase;
-
-  
 }
 
 .content__accent {
