@@ -103,10 +103,6 @@ ol {
   object-fit: cover;
 }
 
-/*.content__list-item:not(:last-child) {
-  margin-bottom: 30px;
-}*/
-
 .content__video-card {
   display: flex;
   justify-content: space-between;
